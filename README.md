@@ -1,4 +1,6 @@
-# tellco_user_analytics
+# Tellco User Analytics
+
+`Analysing Opportunities for investment and growth in Tellco Telecommunications`
 
 ### Situational Overview (Business Need)
 
